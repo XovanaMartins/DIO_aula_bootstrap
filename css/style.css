@@ -1,0 +1,35 @@
+body{
+	font:20px Arial, sans-serif;
+}
+.navbar{
+	background-color: pink;
+}
+.quem-somos{
+	background-color: green;
+	color: white;
+}
+.parceiros{
+	background-color: grey;
+}
+.servicos{
+	background-color: white;
+}
+.title{
+	font-family: Verdana;
+	font-size: 26px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.margin{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.imagem{
+	padding: 20px;
+}
+.bg-footer{
+	background-color: black;
+	color: white;
+	font: 10px Arial;
+	padding:10px;
+}
